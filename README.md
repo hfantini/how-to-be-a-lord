@@ -24,4 +24,5 @@ This app was developed for android mobiles with aim to familiarize with the plat
 <br />
 
 More information in: https://henriquefantini.com/en/portfolio/8
-Google play: https://play.google.com/store/apps/details?id=smarttrap.android.app.lordfree
+
+Google play App: https://play.google.com/store/apps/details?id=smarttrap.android.app.lordfree
