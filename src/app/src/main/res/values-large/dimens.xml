@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- MENU VIEW -->
+    <dimen name="dimMnu_logo_height">260dp</dimen>
+    <dimen name="dimMnu_trace_height">36dp</dimen>
+    <dimen name="dimMnu_margin_top_middle">60dp</dimen>
+    <dimen name="dimMnu_button_start_width">450dp</dimen>
+    <dimen name="dimMnu_button_start_height">130dp</dimen>
+    <dimen name="dimMnu_margin_buttons_H">20dp</dimen>
+    <dimen name="dimMnu_margin_buttons_V">40dp</dimen>
+    <dimen name="dimMnu_button_removeADS_width">260dp</dimen>
+    <dimen name="dimMnu_button_removeADS_height">70dp</dimen>
+    <dimen name="dimMnu_button_credits_width">260dp</dimen>
+    <dimen name="dimMnu_button_credits_height">70dp</dimen>
+    <dimen name="dimMnu_margin_middle_bottom">10dp</dimen>
+    <dimen name="dimMnu_ads_height">100dp</dimen>
+
+
+</resources>

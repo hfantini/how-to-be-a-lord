@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:text="AAA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtMusicName"
+        android:textSize="12sp"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_margin="16dp"
+        android:layout_marginLeft="16dp"
+        android:singleLine="true"
+        android:textColor="#ffffff"
+        android:scrollHorizontally="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:background="@android:color/transparent"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgSeparator"
+        tools:layout_width="match_parent"
+        android:layout_below="@+id/txtMusicName"
+        android:src="@drawable/img_app_sep"
+        android:scaleType="fitCenter"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:background="@android:color/transparent"/>
+</merge>
